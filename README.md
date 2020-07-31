@@ -1,5 +1,7 @@
 ## Wassup :wave: Developers,
 
+![Back Ground](https://raw.githubusercontent.com/manzars/manzars/master/img/background.jpg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
