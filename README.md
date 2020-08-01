@@ -1,4 +1,4 @@
-## Wassup :wave: Developers,
+# Wassup :wave: Developers,
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
@@ -13,6 +13,11 @@
 
 | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/python.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/c.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/java.jpg" width=90> | 
 |:---:|:---:|:---:|
+
+## Front-End Languages :bomb:
+
+| <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/html.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/css.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/bootstrap.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/js.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/es6.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/react.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/reactnative.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/redux.png" width=90> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## Tools :fire:
 
