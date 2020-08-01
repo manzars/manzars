@@ -29,18 +29,18 @@
 
 ## Connect with me :smiley:
 
-<a href="https://twitter.com/adityakamath__">
-  <img align="left" alt="Aditya Kamath Twitter" width="35px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+<a href="https://twitter.com/manzars99">
+  <img align="left" alt="Manzar Shaikh | Twitter" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/adityakamath16/">
-  <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+<a href="https://www.linkedin.com/in/manzars">
+  <img align="left" alt="Manzar Shaikh | LinkedIn" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/adityakamath__/">
-  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
+<a href="https://www.instagram.com/manz.ar">
+  <img align="left" alt="Manzar Shaikh | Instagram" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/instagram.png" />
 </a>
-<a href="https://www.facebook.com/aditya.kamath.9081">
-  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+<a href="https://www.facebook.com/manzar.shaikh.545">
+  <img align="left" alt="Manzar Shaikh | Facebook" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/facebook.png" />
 </a>
-<a href="https://www.argsinfotech.com/">
-  <img align="left" alt="Aditya Kamath Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
+<a href="https://manzars.github.io/">
+  <img align="left" alt="Manzar Shaikh | Portfolio" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/mywebsite.png" />
 </a>
