@@ -43,10 +43,7 @@
 </a>
 <a href="https://manzars.github.io/">
   <img align="left" alt="Manzar Shaikh | Portfolio" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/mywebsite.png" />
-</a><br/><br/>
+</a><br/><br/><br/><br/><br/>
 
 
-<p align="center"></p>
-<br/><br/>
-
-![ViewCount](https://views.whatilearened.today/views/github/manzars/views.svg)
+<p align="center"><img align="left" alt="Manzar Shaikh | Portfolio" width="100px" src="https://views.whatilearened.today/views/github/manzars/views.svg" /></p>
