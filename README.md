@@ -30,17 +30,17 @@
 ## Connect with me :smiley:
 
 <a href="https://twitter.com/manzars99">
-  <img align="left" alt="Manzar Shaikh | Twitter" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/twitter.png" />
+  <img align="left" alt="Manzar Shaikh | Twitter" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/manzars">
-  <img align="left" alt="Manzar Shaikh | LinkedIn" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/linkedin.png" />
+  <img align="left" alt="Manzar Shaikh | LinkedIn" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/manz.ar">
-  <img align="left" alt="Manzar Shaikh | Instagram" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/instagram.png" />
+  <img align="left" alt="Manzar Shaikh | Instagram" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/instagram.png" />
 </a>
 <a href="https://www.facebook.com/manzar.shaikh.545">
-  <img align="left" alt="Manzar Shaikh | Facebook" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/facebook.png" />
+  <img align="left" alt="Manzar Shaikh | Facebook" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/facebook.png" />
 </a>
 <a href="https://manzars.github.io/">
-  <img align="left" alt="Manzar Shaikh | Portfolio" width="35px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/mywebsite.png" />
+  <img align="left" alt="Manzar Shaikh | Portfolio" width="50px" src="https://raw.githubusercontent.com/manzars/manzars/master/img/mywebsite.png" />
 </a>
