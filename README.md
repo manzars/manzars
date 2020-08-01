@@ -46,4 +46,4 @@
 </a><br/><br/><br/><br/><br/>
 
 
-<p align="center"><img align="left" alt="Manzar Shaikh | Portfolio" width="100px" src="https://views.whatilearened.today/views/github/manzars/views.svg" /></p>
+<p align="center"><img align="left" alt="View Count" width="100px" src="https://views.whatilearened.today/views/github/manzars/views.svg" /></p>
