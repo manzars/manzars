@@ -10,7 +10,7 @@
 
 ## Programming Languages :rocket:
 
-| <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/firebase.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/cloudinary.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/github.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/vscode.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/selenium.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/machinelearning.png" width=60> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/datamining.jpg" width=60> |
+| <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/firebase.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/cloudinary.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/github.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/vscode.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/selenium.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/machinelearning.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/dataminings.png" width=90> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
