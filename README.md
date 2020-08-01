@@ -11,8 +11,8 @@
 
 ## Programming Languages :rocket:
 
-| <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/python.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/c.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/java.jpg" width=90> |
-|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/python.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/c.png" width=90> | <img src="https://raw.githubusercontent.com/manzars/manzars/master/img/java.jpg" width=90> | 
+|:---:|:---:|:---:|
 
 ## Tools :fire:
 
